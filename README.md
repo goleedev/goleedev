@@ -98,11 +98,11 @@ Native
 
 ### English 🇺🇸
 
-Proficient (Lived in Seattle, WA | 2013-2016)
+Proficient
 
 ### Mandarin Chinese 🇨🇳
 
-Intermediate (Lived in Changchun, JL | 2010-2013)
+Intermediate
 
 <br/>
 
