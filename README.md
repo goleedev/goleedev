@@ -2,11 +2,15 @@
 
 > I am a junior Software engineer with a various knowledge in front-end and back-end languages, frameworks, and databases. I love learning new things and solving  problems. As someone who is highly attentive to detail, I thrive on building quality components and applications. I am currently looking for the opportunity to leverage my range of skills.
 
-# 👋 Portfolio
+<br />
+
+## 👋 Portfolio
 
 💻  [Click to see my portfolio!](https://goleedev.github.io)
 
-# ☎️ Contact information
+<br />
+
+## ☎️ Contact information
 
 📧 [golee.dev@gmail.com](mailto:golee.dev@gmail.com)
 
@@ -16,7 +20,9 @@
 
 🔗 [LinkedIn](https://www.linkedin.com/in/goleedev/)
 
-# Jump to
+<br />
+
+## Jump to
 🛠 [Skills](https://www.notion.so/Goeun-Lee-ec4f8ae8c84b46b5a8f2e1322ede3374#fdd6a9f16ef448ee9eec9083e43e7f87)
 
 👩🏻‍💻 [Projects](https://www.notion.so/Goeun-Lee-ec4f8ae8c84b46b5a8f2e1322ede3374#ab29cf8a847849108a188da63bf30326)
@@ -27,9 +33,9 @@
 
 <br/>
 
-# 🛠 Skills
+## 🛠 Skills
 
-## 💻 Front-end
+### 💻 Front-end
 
 - React.js
 - JavaScript (ES6 +)
@@ -38,14 +44,14 @@
 - Bootstrap/Ant Design
 - HTML5 & CSS3
 
-## 🔙 Back-end
+### 🔙 Back-end
 
 - Node.js
 - MongoDB
 - Mongoose
 - Express.js
 
-## 👏 Others
+### 👏 Others
 
 - Git
 - Github
@@ -53,11 +59,11 @@
   
 <br/>
 
-# **👩🏻‍💻** Projects
+## **👩🏻‍💻** Projects
 
-## Ur Repo: Github Search App
+### Ur Repo: Github Search App
 
-**👉**[View Demo](https://ur-repo.herokuapp.com/) [](https://github-search-goleedev.netlify.app/)| [View Source](https://github.com/goleedev/ur-repo) 
+👉[View Demo](https://ur-repo.herokuapp.com/) [](https://github-search-goleedev.netlify.app/)| [View Source](https://github.com/goleedev/ur-repo) 
 
 A Github search application using Github API with React.js, Fusioncharts, and Bootstrap. 
 
@@ -65,7 +71,7 @@ Users can search with the username to get user info on their Github account. Cha
 
 Set for Completion in July 2020.
 
-## Chatter Box: Real-time chat application.
+### Chatter Box: Real-time chat application.
 
 👉[View Demo](http://chatter-box-goleedev.netlify.app) | [View Source](https://github.com/goleedev/chat-box)
 
@@ -74,7 +80,7 @@ Users can join a selected channel. In the channel, admin greets to the member au
 
 Set for Completion in July 2020.
 
-## Watchin’: Movie Listing App
+### Watchin’: Movie Listing App
 
 👉[View Demo](https://watchin-app.herokuapp.com/) | [View Source](https://github.com/goleedev/movie-app)
 
@@ -97,24 +103,24 @@ Proficient (Lived in Seattle, WA | 2013-2016)
 ### Mandarin Chinese 🇨🇳
 
 Intermediate (Lived in Changchun, JL | 2010-2013)
+
 <br/>
 
-# 🌐 Activity
+## 🌐 Activity
 
-## 👩‍👩‍👧‍👧 XXIT
+### 👩‍👩‍👧‍👧 XXIT
 
 *Founder*
 Organization Supporting Women in Tech based in S.Korea with 9,600 + members 
+
 <br/>
 
-# 📚 Education
+## 📚 Education
 
-## 👾 BS in Computer Science, University of London
+### 👾 BS in Computer Science, University of London
 
 In Progress, Attending Online
 
-<br/>
-<br/>
 ---
 ### I’m available for interesting projects. Contact me [@here](https://www.notion.so/Goeun-Lee-ec4f8ae8c84b46b5a8f2e1322ede3374#315f48b564574059bf49aa06b2e89ed3)
 
