@@ -1,6 +1,6 @@
 # GO Lee
 
-> I am a junior Software engineer with a various knowledge in front-end and back-end languages, frameworks, and databases. I love learning new things and solving  problems. As someone who is highly attentive to detail, I thrive on building quality components and applications. I am currently looking for the opportunity to leverage my range of skills.
+> I am a junior Software engineer with a various knowledge in front-end and back-end languages, frameworks, and databases. As someone who is highly attentive to detail, I thrive on building quality components and applications. I am currently looking for the opportunity to leverage my range of skills.
 
 <br />
 
@@ -110,7 +110,7 @@ Intermediate (Lived in Changchun, JL | 2010-2013)
 
 ### 👩‍👩‍👧‍👧 XXIT
 
-*Founder*
+*Founder* <br/>
 Organization Supporting Women in Tech based in S.Korea with 9,600 + members 
 
 <br/>
