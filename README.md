@@ -1,8 +1,9 @@
 
-<h1> GO Lee <img src="https://user-images.githubusercontent.com/52603436/91978430-0d5b8880-ed5f-11ea-9b02-4df5d170e3e7.png" alt="profile" width="70px"></h1>
-
+<div vlign="center"><img src="https://user-images.githubusercontent.com/52603436/91978430-0d5b8880-ed5f-11ea-9b02-4df5d170e3e7.png" alt="profile" width="100px"> <h1 > GO Lee </h1></div>
 
 > I am a junior Software engineer with a various knowledge in front-end and back-end languages, frameworks, and databases. As someone who is highly attentive to detail, I thrive on building quality components and applications. I am currently looking for the opportunity to leverage my range of skills.
+
+
 
 <br />
 
