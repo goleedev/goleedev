@@ -25,17 +25,6 @@
 
 <br />
 
-## Jump to
-🛠 [Skills](https://www.notion.so/Goeun-Lee-ec4f8ae8c84b46b5a8f2e1322ede3374#fdd6a9f16ef448ee9eec9083e43e7f87)
-
-👩🏻‍💻 [Projects](https://www.notion.so/Goeun-Lee-ec4f8ae8c84b46b5a8f2e1322ede3374#ab29cf8a847849108a188da63bf30326)
-
-🌐 [Activity](https://www.notion.so/Goeun-Lee-ec4f8ae8c84b46b5a8f2e1322ede3374#b6bcf665f3c44ada910ea9fbefeb6f25)
-
-📚 [Education](https://www.notion.so/Goeun-Lee-ec4f8ae8c84b46b5a8f2e1322ede3374#2657224ead6c4577a2766df0c4f32d62)
-
-<br/>
-
 ## 🛠 Skills
 
 ### 💻 Front-end
@@ -49,6 +38,7 @@
 
 ### 🔙 Back-end
 
+- Firebase
 - Node.js
 - MongoDB
 - Mongoose
@@ -59,10 +49,22 @@
 - Git
 - Github
 - Heroku
+- Netlify
   
 <br/>
 
 ## **👩🏻‍💻** Projects
+
+
+### Ohsung Real Estate Agency
+
+👉[View Demo](https://www.5sungbds.com/) | [View Source](https://github.com/goleedev/ohsung-realestate)
+
+A paid project for Ohsung Real Estate Agency based in Cheonan, S. Korea.
+
+The website is built with firebase, React.js, and Bootstrap. Users can search products inside the website and sort them by product type. Each product has its detail page to display the detailed content. Admin can upload and manage products through admin pages.
+
+Set for Completion in November 2020.
 
 ### Ur Repo: Github Search App
 
@@ -83,30 +85,6 @@ Users can join a selected channel. In the channel, admin greets to the member au
 
 Set for Completion in July 2020.
 
-### Watchin’: Movie Listing App
-
-👉[View Demo](https://watchin-app.herokuapp.com/) | [View Source](https://github.com/goleedev/movie-app)
-
-A Movie Listing App using Movie DB API with MongoDB, Express, React.js, Node.js, and Ant Design. Users can store their favorite movies under favorite page.
-
-Set for Completion in June 2020.
-
-<br/>
-
-## 🗣 Languages
-
-### Korean 🇰🇷
-
-Native
-
-### English 🇺🇸
-
-Proficient
-
-### Mandarin Chinese 🇨🇳
-
-Intermediate
-
 <br/>
 
 ## 🌐 Activity
@@ -125,6 +103,6 @@ Organization Supporting Women in Tech based in S.Korea with 9,600 + members
 In Progress, Attending Online
 
 ---
-### I’m available for interesting projects. Contact me [@here](https://www.notion.so/Goeun-Lee-ec4f8ae8c84b46b5a8f2e1322ede3374#315f48b564574059bf49aa06b2e89ed3)
+### I’m available for interesting projects. Contact me [@here](mailto:golee.dev@gmail.com)
 
 Thanks for reading! 👋
