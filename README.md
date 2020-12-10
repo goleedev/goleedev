@@ -19,7 +19,7 @@
 
 🤳 [Instagram](http://instagram.com/golee.dev)
 
-📝 [Blog](https://goleedev.netlify.app)
+📝 [Blog](https://goleedev-blog.netlify.app)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/goleedev/)
 
@@ -31,25 +31,24 @@
 
 - React.js
 - JavaScript (ES6 +)
+- Next.js
 - jQuery
 - P5.js
-- Bootstrap/Ant Design
+- Bootstrap
 - HTML5 & CSS3
 
 ### 🔙 Back-end
 
-- Firebase
 - Node.js
 - MongoDB
-- Mongoose
 - Express.js
 
 ### 👏 Others
 
 - Git
 - Github
-- Heroku
-- Netlify
+- Firebase
+- Adobe XD
   
 <br/>
 
