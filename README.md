@@ -19,7 +19,7 @@
 
 🤳 [Instagram](http://instagram.com/golee.dev)
 
-📝 [Blog](https://goleedev-blog.netlify.app)
+📝 [Blog](https://golee-blog.netlify.app)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/goleedev/)
 
@@ -33,7 +33,6 @@
 - JavaScript (ES6 +)
 - Next.js
 - jQuery
-- P5.js
 - Bootstrap
 - HTML5 & CSS3
 
