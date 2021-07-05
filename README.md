@@ -1,75 +1,36 @@
+<div align="center">
+  <img src='assets/memoji.gif' alt="memoji" width="250" >
 
-<h1 > <img src="https://user-images.githubusercontent.com/52603436/91978430-0d5b8880-ed5f-11ea-9b02-4df5d170e3e7.png" alt="profile" width="100px" align="center"> GO Lee </h1>
+<h3>GO Lee, <b>CS Student</b> @UoL</h3>
+<h3>Jr. <b>Frontend</b> Developer</h3>
+<br>
 
-> I am a junior frontend developer with a various knowledge in front-end languages and frameworks. As someone who is highly attentive to detail, I thrive on building quality components and applications. I am currently looking for the opportunity to leverage my range of skills.
+[![Linkedin: goleedev](https://img.shields.io/badge/-goleedev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goleedev/)](https://www.linkedin.com/in/goleedev/)
+![GitHub followers](https://img.shields.io/github/followers/goleedev?style=social)
+[![Portfolio](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&color=9cf&logo=dev.to&logoColor=white&link=https://golee.tech/)](https://golee.tech/)
+![](https://visitor-badge.glitch.me/badge?page_id=goleedev.goleedev)
 
+<br>
+<hr>
 
+<br>
+  <h4><b>🎧 Vibing to</b></h4>
 
-<br />
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR)
 
-## 👋 Portfolio
+</div>
 
-💻  [Click to see my portfolio!](https://goleedev.github.io)
+<hr>
+<br>
 
-<br />
+- 🐝 Full-time student & full-time developer
+- ⚡ Fun fact : I've watched all ten seasons of Friends over ten times, and **Monica** is my fave 🧽 🧺 ✨<br>
 
-## ☎️ Contact information
-
-📧 [golee.dev@gmail.com](mailto:golee.dev@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/goleedev/)
-
-<br />
-
-## 🛠 Skills
-
-### 💻 Front-end
-
-- TypeScript
-- React
-- JavaScript
-- Storybook
-- Emotion
-- HTML/CSS
-
-### 🔙 Back-end
-
-- Node.js
-- Express.js
-- GraphQL/Apollo
-
-### 👏 Others
-
-- Git/Github
-- Firebase
-- Jest
-- Figma
-  
-<br/>
-
-## **👩🏻‍💻** Projects
-
-
-### Ohsung Real Estate Agency
-
-👉[View Demo](https://www.5sungbds.com/) | [View Source](https://github.com/goleedev/ohsung-realestate)
-
-A paid project for Ohsung Real Estate Agency based in Cheonan, S. Korea.
-
-The website is built with firebase, React.js, and Bootstrap. Users can search products inside the website and sort them by product type. Each product has its detail page to display the detailed content. Admin can upload and manage products through admin pages.
-
-Set for Completion in November 2020.
-
-### Ur Repo: Github Search App
-
-👉[View Demo](https://ur-repo.herokuapp.com/) [](https://github-search-goleedev.netlify.app/)| [View Source](https://github.com/goleedev/ur-repo) 
-
-A Github search application using Github API with React.js, Fusioncharts, and Bootstrap. 
-
-Users can search with the username to get user info on their Github account. Charts show the five most used and starred languages of the user.
-
-Set for Completion in July 2020.
-<br/>
----
-### I’m available for interesting projects. Contact me [@here](mailto:golee.dev@gmail.com)
-
-Thanks for reading! 👋
+<div align="center" >
+  <a  href="https://github.com/goleedev"> 
+    <img alt="GO Lee's GitHub Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=goleedev&show_icons=true&hide_border=true" href="https://github.com/goleedev" 
+    />
+    <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goleedev&layout=compact&count_private=true&&hide_border=true&icon=true" href="https://github.com/goleedev" 
+    />
+  </a>
+</div>
