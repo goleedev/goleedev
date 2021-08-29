@@ -1,8 +1,8 @@
 <div align="center">
   <img src='assets/memoji.gif' alt="memoji" width="250" >
 
-<h3>GO Lee, <b>CS Student</b> @UoL</h3>
-<h3>Jr. <b>Frontend</b> Developer</h3>
+<h3>GO Lee</h3>
+<h4>Jr. Software Engineer</h4>
 <br>
 
 [![Linkedin: goleedev](https://img.shields.io/badge/-goleedev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goleedev/)](https://www.linkedin.com/in/goleedev/)
@@ -23,7 +23,7 @@
 <hr>
 <br>
 
-- 🐝 Full-time student & full-time developer
+- 🐝 Full-time developer
 - ⚡ Fun fact : I've watched all ten seasons of Friends over ten times, and **Monica** is my fave 🧽 🧺 ✨<br>
 
 <div align="center" >
