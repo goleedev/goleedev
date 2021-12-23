@@ -11,7 +11,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=goleedev.goleedev)
 
 <br>
-<hr>
 
 <br>
   <h4><b>📓 Recent Post</b></h4>
@@ -27,6 +26,7 @@
 
 </div>
 
+<hr>
 <br>
 
 - 🐝 Full-time developer
