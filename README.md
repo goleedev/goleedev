@@ -15,7 +15,7 @@
 <br>
   <h4><b>📓 Recent Post</b></h4>
 
-  <h3><a href="'https://www.golee.tech/blog/memoir-2021'">😵‍💫 빙글빙글 돌아가는 2021년을 보내며 쓰는 회고록</a><h3>  
+  [😵‍💫 빙글빙글 돌아가는 2021년을 보내며 쓰는 회고록]('https://www.golee.tech/blog/memoir-2021')
   <br>
 
 <hr>
