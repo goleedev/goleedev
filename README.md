@@ -27,7 +27,6 @@
 
 </div>
 
-<hr>
 <br>
 
 - 🐝 Full-time developer
