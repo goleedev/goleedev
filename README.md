@@ -22,7 +22,7 @@
 <br>
   <h4><b>🎧 Vibing to</b></h4>
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DXbYM3nMM0oPk)
 
 </div>
 
