@@ -34,9 +34,9 @@
 
 <div align="center" >
   <a href="https://github.com/goleedev"> 
-    <img alt="GO Lee's GitHub Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=goleedev&show_icons=true&hide_border=true" href="https://github.com/goleedev" 
+    <img alt="GO Lee's GitHub Stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=goleedev&show_icons=true&hide_border=true" href="https://github.com/goleedev" 
     />
-    <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goleedev&layout=compact&count_private=true&&hide_border=true&icon=true" href="https://github.com/goleedev" 
+    <img alt="Top Langs" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goleedev&layout=compact&count_private=true&&hide_border=true&icon=true" href="https://github.com/goleedev" 
     />
   </a>
 </div>
