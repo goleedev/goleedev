@@ -1,4 +1,4 @@
-<section align="center" flex-direction="column">
+<section align="center" style="flex-direction: column;">
 
   <div align="center">
     
@@ -17,15 +17,21 @@
   <hr>
   <br>
 
-  <div align="left" flex-direction="column">
+  <div align="left" style="flex-direction: column;">
     <h3>📍 Featured</h3>
-    <div grid-row="2">
-      <a href="https://github.com/goleedev/golee.me">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goleedev&repo=golee.me" />
-      </a>
-      <a href="https://github.com/goleedev/nextjs-dashboard">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goleedev&repo=nextjs-dashboard" />
-      </a>
-    </div>
+    <table width="100%">
+      <tr>
+        <td>
+          <a href="https://github.com/goleedev/golee.me">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goleedev&repo=golee.me" />
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/goleedev/nextjs-dashboard">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goleedev&repo=nextjs-dashboard" />
+          </a>
+        </td>
+      </tr>
+    </table>
   </div>
 </section>
