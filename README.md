@@ -38,7 +38,7 @@
   <p>Having lived in China for 4 years during middle school and the US for 4 years during college, I bring a unique, global perspective to my work. These experiences have fostered a deep appreciation for diversity and a multicultural approach to problem-solving.</p>
     
   <h4>📫 Let's Connect</h4>
-  <p>I love connecting with new people! Feel free to reach out to me at <a href="mailto:golee.dev@gmail.com">golee.dev@gmail.com</a>. Explore my work here on <a href="https://github.com/goleedev">GitHub</a> and visit my <a href="https://golee.me/blog">blog</a> for more insights.</p>
+  <p>I love connecting with new people! Feel free to reach out to me at <a href="mailto:golee.dev@gmail.com">golee.dev@gmail.com</a>. Explore my work on <a href="https://www.linkedin.com/in/goleedev">LinkedIn</a> and visit my <a href="https://golee.me/blog">blog</a> for more insights.</p>
 </article>
 
 <br>
