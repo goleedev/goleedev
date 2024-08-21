@@ -26,7 +26,7 @@
   
   <h4>📍 Key Achievements</h4>
   <ul>
-    <li><strong>E-commerce Platform Launch:</strong> Successfully launched a comprehensive e-commerce platform within three months, resulting in over £50,000 in monthly transactions.</li>
+    <li><strong>E-commerce Platform Launch:</strong> Successfully launched a comprehensive e-commerce platform within three months, resulting in over £100,000 in monthly transactions.</li>
     <li><strong>Customer Satisfaction:</strong> Increased customer satisfaction by 15% through strategic A/B testing and feature optimization using Growthbook.</li>
     <li><strong>Cost Reduction:</strong> Reduced development costs to under $100 per month by integrating Supabase RESTful APIs with PostgreSQL.</li>
   </ul>
