@@ -22,7 +22,7 @@
 
 <div style="font-family: monospace;">
   <h4>💻 About Me</h4>
-  <p>I'm a <strong>Driven Frontend Engineer</strong> with 2.5 years of experience specializing in developing and optimizing e-commerce platforms. My passion lies in helping companies boost transactions and enhance user satisfaction through innovative web and mobile solutions.</p>
+  <p>I'm a <strong>Driven Frontend Engineer</strong> with 3 years of experience specializing in developing and optimizing e-commerce platforms. My passion lies in helping companies boost transactions and enhance user satisfaction through innovative web and mobile solutions.</p>
   
   <h4>📍 Key Achievements</h4>
   <ul>
