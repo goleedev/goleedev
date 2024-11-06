@@ -6,8 +6,6 @@
   [![Linkedin: goleedev](https://img.shields.io/badge/-goleedev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goleedev/)](https://www.linkedin.com/in/goleedev/)
   ![GitHub followers](https://img.shields.io/github/followers/goleedev?style=social)
   [![Portfolio](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&color=9cf&logo=dev.to&logoColor=white&link=https://golee.me/)](https://golee.me/)
-  ![](https://visitor-badge.glitch.me/badge?page_id=goleedev.goleedev)  
-  
   </div>
   
   <img src='assets/memoji.gif' alt="memoji" width="250" >
