@@ -15,7 +15,7 @@
 <br>
 <div style="font-family: monospace;">
   <h4>💻 About Me</h4>
-  <p>I'm a <strong>Driven Frontend Engineer</strong> with 4 years of experience specializing in React.js, Next.js, and TypeScript. I deliver measurable results by enhancing user experience, driving product adoption, and scaling web applications.</p>
+  <p>I'm a <strong>Driven Frontend Engineer</strong> with 4 years of experience specializing in React.js and TypeScript. I deliver measurable results by enhancing user experience, driving product adoption, and scaling web applications.</p>
   
   <h4>📍 Key Achievements</h4>
   <ul>
