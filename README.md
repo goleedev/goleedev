@@ -14,36 +14,9 @@ golee.me</a> ·
 
 **Things I work with**
 
-`TypeScript` `React` `Next.js` `TailwindCSS` `Vitest` `Jest` `Cypress` `Node.js` `Supabase` `PostgreSQL` `Cloudflare Workers`
-
-<br>
-
-**Featured Projects**
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/goleedev/golee.me">
-        <b>golee.me</b>
-      </a>
-      <br>
-      <sub>macOS-style portfolio built with React, TypeScript & Cloudflare Workers</sub>
-      <br><br>
-      <sub><code>TypeScript</code> <code>React</code> <code>Cloudflare Workers</code></sub>
-      <br>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/goleedev/nextjs-dashboard">
-        <b>nextjs-dashboard</b>
-      </a>
-      <br>
-      <sub>Next.js dashboard project</sub>
-      <br><br><br>
-      <sub><code>TypeScript</code> <code>Next.js</code></sub>
-      <br>
-    </td>
-  </tr>
-</table>
+`TypeScript` `React` `Next.js` `TailwindCSS` <br/>
+`Vitest` `Jest` `Cypress` `Node.js` `Supabase`
+`PostgreSQL` `Cloudflare Workers`
 
 ---
 
